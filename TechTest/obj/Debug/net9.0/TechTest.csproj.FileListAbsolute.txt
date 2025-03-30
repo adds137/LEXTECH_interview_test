@@ -1,0 +1,15 @@
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\bin\Debug\net9.0\TechTest.exe
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\bin\Debug\net9.0\TechTest.deps.json
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\bin\Debug\net9.0\TechTest.runtimeconfig.json
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\bin\Debug\net9.0\TechTest.dll
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\bin\Debug\net9.0\TechTest.pdb
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\obj\Debug\net9.0\TechTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\obj\Debug\net9.0\TechTest.AssemblyInfoInputs.cache
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\obj\Debug\net9.0\TechTest.AssemblyInfo.cs
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\obj\Debug\net9.0\TechTest.csproj.CoreCompileInputs.cache
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\obj\Debug\net9.0\TechTest.sourcelink.json
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\obj\Debug\net9.0\TechTest.dll
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\obj\Debug\net9.0\refint\TechTest.dll
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\obj\Debug\net9.0\TechTest.pdb
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\obj\Debug\net9.0\TechTest.genruntimeconfig.cache
+C:\Users\adds0\Documents\Projects\LEXTECH_interview_test\TechTest\obj\Debug\net9.0\ref\TechTest.dll
