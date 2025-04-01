@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YM5Yy5uG4Vo=",
+  "dgSpecHash": "Tem6PVnBDjk=",
   "success": true,
   "projectFilePath": "C:\\Users\\adds0\\Documents\\Projects\\LEXTECH_interview_test\\TechTest\\TechTest.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\adds0\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

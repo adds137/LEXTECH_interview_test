@@ -1,8 +1,8 @@
 ﻿namespace TechTest;
 
-public class Solution
+public abstract class ArrayUtil
 {
-    public static int FindMissingNumbers(int[] numberArray)
+    public static int FindMissingNumber(int[] numberArray)
     {
         for (int i = 0; i < numberArray.Length; i++)
         {
@@ -11,6 +11,6 @@ public class Solution
                 return i;
             }
         }
-        return -1;
+        return numberArray.Length;
     }
 }
